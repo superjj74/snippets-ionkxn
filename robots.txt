@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://superjj74.github.io/snippets-ionkxn/sitemap.xml
